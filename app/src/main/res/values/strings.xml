@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DictionaryVRI</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Vito Rizki Imanda</string>
+    <string name="nav_header_subtitle">vitorizkiimanda@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="word" />
+    <string name="app_first_run">first_run</string>
+    <string name="Word">Word</string>
+    <string name="meaning">meaning</string>
+    <string name="search_button_word">search</string>
+</resources>
